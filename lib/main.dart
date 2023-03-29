@@ -45,7 +45,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
       child: Icon(
         Icons.pause_circle_filled_outlined,
         color: Colors.white,
-        size: 70,
+        size: 60,
       ),
     );
   }
